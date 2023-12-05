@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"stvconv"
 	"github.com/gorilla/mux"
-	"github.com/paultorno/MyScripts/GO/go-bookstore/pkg/utils"
-	"github.com/paultorno/MyScripts/GO/go-bookstore/pkg/models"
+	"github.com/paultorno/go-bookstore/pkg/utils"
+	"github.com/paultorno/go-bookstore/pkg/models"
 )
 
 var NewBook models.Book
