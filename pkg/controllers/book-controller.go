@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"encoding/json"
 	"net/http"
-	"stvconv"
+	"strconv"
 	"github.com/gorilla/mux"
 	"github.com/paultorno/go-bookstore/pkg/utils"
 	"github.com/paultorno/go-bookstore/pkg/models"
